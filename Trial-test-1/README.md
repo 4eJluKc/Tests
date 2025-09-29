@@ -157,8 +157,6 @@ elif (x < 5): print(0)
 elif (x >= 5): print(1)
 ~~~
 </li></li>
-
-
 <ul>
 
 ---
@@ -360,7 +358,6 @@ if 1: print(x)
 if (True): print(x)
 ~~~
 </li></li>
-  
 </ul>
 
 ---
@@ -490,8 +487,7 @@ for i in range(10):
     if i == 5: continue
     print(i)
 ~~~
-</li></li>
-  
+</li></li>  
 </ul>
 
 ---
