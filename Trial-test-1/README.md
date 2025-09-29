@@ -97,13 +97,14 @@ if a < b:
 
 ---
 
-Дан фрагмент кода на Python. Выберите выражения, которые НЕ вызовут ошибки. Переменная x определена следующим образом: x = 5.
+Дан фрагмент кода на Python. Выберите выражения, которые НЕ вызовут ошибки. Переменная x определена следующим образом: 
+x = 5.
 
 
 Ответ:
 
 <ul>
-<li> [ ] <li>
+<li>- [ ] <li>
 
 ~~~py
 if x == 5:
@@ -114,7 +115,7 @@ else:
 ~~~
 </li></li>
 
-<li> [x] <li>
+<li>- [x] <li>
 
 ~~~py
 if x == 5:
@@ -124,7 +125,7 @@ else:
 ~~~
 </li></li>
 
-<li> [x] <li>
+<li>- [x] <li>
 
 ~~~py
 if x == 5: print(x)
@@ -132,7 +133,7 @@ else: print(0)
 ~~~
 </li></li>
 
-<li> [ ] <li>
+<li>- [ ] <li>
 
 ~~~py
 if (x == 5):
@@ -140,7 +141,7 @@ else:
 ~~~
 </li></li>
 
-<li> [x] <li>
+<li>- [x] <li>
   
 ~~~py
 if x == 5: print(x)
@@ -149,7 +150,7 @@ else: print(x)
 ~~~
 </li></li>
 
-<li> [ ] <li>
+<li>- [ ] <li>
 
 ~~~py
 elif (x < 5): print(0)
@@ -318,42 +319,42 @@ while k:
 Ответ:
 <ul>
 
-<li> [x] <li>
+<li>- [x] <li>
   
 ~~~py
 if (x == 5): print(x)
 ~~~
 </li></li>
 
-<li> [x] <li>
+<li>- [x] <li>
   
 ~~~py
 if (): print(x)
 ~~~
 </li></li>
 
-<li> [ ] <li>
+<li>- [ ] <li>
   
 ~~~py
 if x = 5: print(x)
 ~~~
 </li></li>
 
-<li> [x] <li>
+<li>- [x] <li>
   
 ~~~py
 if x == 5: print(x)
 ~~~
 </li></li>
 
-<li> [x] <li>
+<li>- [x] <li>
   
 ~~~py
 if 1: print(x)
 ~~~
 </li></li>
 
-<li> [x] <li>
+<li>- [x] <li>
   
 ~~~py
 if (True): print(x)
@@ -437,7 +438,7 @@ for i in range(0, i + 10):
 Ответ:
 <ul>
 
-<li> [ ] <li>
+<li>- [ ] <li>
 
 ~~~py
 i = 0
@@ -447,7 +448,7 @@ for i in range(10):
 ~~~
 </li></li>
   
-<li> [x] <li>
+<li>- [x] <li>
 
 ~~~py
 i = 0
@@ -457,21 +458,21 @@ while i < 10:
 ~~~
 </li></li>
 
-<li> [x] <li>
+<li>- [x] <li>
 
 ~~~py
 while True: print(1)
 ~~~
 </li></li>
 
-<li> [ ] <li>
+<li>- [ ] <li>
 
 ~~~py
 while False: print(1)
 ~~~
 </li></li>
 
-<li> [x] <li>
+<li>- [x] <li>
 
 ~~~py
 i = 0
@@ -481,7 +482,7 @@ while i < 10:
 ~~~
 </li></li>
 
-<li> [ ] <li>
+<li>- [ ] <li>
 
 ~~~py
 i = 0
